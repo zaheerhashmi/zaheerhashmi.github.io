@@ -1,6 +1,10 @@
 # Personal Portfolio ⚡️ 
 Cloned by Muhammad Zaheer Hashmi <br /> 
-This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io <br />  
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io <br />
+Activity 2: 
+![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/9f5ade7b-5166-4618-b928-a5151771de19)
+![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/82a4c0f3-54d3-48fc-81a2-95ede95c9e00)
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://varadbhogayata.github.io
