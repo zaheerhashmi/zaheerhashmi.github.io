@@ -4,6 +4,9 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 Activity 2: 
 ![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/9f5ade7b-5166-4618-b928-a5151771de19)
 ![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/82a4c0f3-54d3-48fc-81a2-95ede95c9e00)
+Activity 3:
+![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/7d2a7653-9c89-44e3-9333-d32d53cabadc)
+![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/78646868-0eac-470d-a316-0ec486a9f478)
 Activity 4:
 ![image](https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/3a1d87ca-50c5-4533-bfc7-81ce7cf8524e)
 <img width="935" alt="image" src="https://github.com/zaheerhashmi/zaheerhashmi.github.io/assets/34323129/9e67c060-29bf-4587-9a5a-0d8c90b819b3">
